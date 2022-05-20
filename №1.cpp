@@ -4,10 +4,9 @@ using namespace std;
 // раскомментируй в зависимости от твеой группы
 //#define PI1
 //#define PT1
-//#define PT2
+#define PT2
 
 // вместо нуля поставь последние три цифры из номера зачетки
-#define PT2
 #define NUM 214
 #define SIZE  (NUM*100)
 
